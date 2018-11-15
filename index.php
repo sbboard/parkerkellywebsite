@@ -1,13 +1,5 @@
 <?php
-//random number 1-5
 $rando = rand(1,5);
-//each number represents a food
-//burger
-//pizza
-//taco
-//roast chicken
-//meatball
-//set variable as food
 switch ($rando) {
   case 1:
       $food="burger";
