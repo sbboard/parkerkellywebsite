@@ -1,3 +1,11 @@
+<?php
+    if(isset($_GET['f'])){
+        $food=$_GET['f'];
+    }
+    else{
+        $food="taco";
+    }
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,9 +29,9 @@
 
 <div class="portWrap">
     <div class="portLogo">
-        <img id="angelBoy" src="img/monaparker.png">
+        <?php echo "<img id=\"angelBoy\" src=\"img/parkerArt/".$food.".png\">"?>
         <div class="portTextWrap">
-        <div class="thanks font-effect-3d">HOW I LOVE THIS BURGER!</div>
+        <?php echo "<div class=\"thanks font-effect-3d\">HOW I LOVE THIS ".strtoupper($food)."!</div>"?>
         <div class="thanksPartTwo">Here's my exclusive portfolio</div>
         </div>
     </div>
