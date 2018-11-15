@@ -95,13 +95,7 @@ switch ($rando) {
 </div>
 
 <?php include'includes/nav.php' ?>
-<div id="preload-01"></div>
-<div id="preload-02"></div>
-<div id="preload-03"></div>
-<div id="preload-04"></div>
-<div id="preload-05"></div>
 <script>
-
 TweenMax.from("#droppable", 1, {ease: Bounce.easeOut, rotation:-90});
 TweenMax.from("#draggable", 1, {ease: Power1.easeOut, opacity: 0, rotation:10, left: 200, delay: 1});
 TweenMax.from(".instruct", 2, {ease: Power1.easeOut, opacity: 0, delay: 1});
