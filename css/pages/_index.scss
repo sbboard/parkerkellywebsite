@@ -1,0 +1,127 @@
+html{
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(to bottom, #ff4d96 0%,#f71e50 100%);
+    background-attachment: fixed;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+.siteWrap{
+    padding: 2em 2em;
+    max-width: 1500px;
+    margin: 0 auto;
+    @include tablet{
+        padding: 2em .5em;
+    }
+    .indexText{
+        text-align: center;
+        font-size: 4.5em;
+        font-family: $boldFont;
+        @include tablet{
+            font-size: 3em;
+            margin: 0 auto;
+        }
+        @include phone{
+            width: inherit;
+            font-size: 1.5em;
+        }
+    }
+    .playstuff{
+        padding: 2em 0;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .parker{
+            max-width: 25% !important;
+            overflow: hidden;
+            display: inline-block;
+            text-align: center;
+            justify-self: center;
+            margin: 1em 100px;
+            //background-color: red;
+            @include tablet{
+                max-width: 100%;
+                margin: 1em 50px;
+            }
+            @include phone{
+                margin: 1em 30px;
+            }
+            img{
+                width: 100%;
+                display: block;
+                //z-index: 5;
+                position: relative;
+            }
+        }
+        .food{
+            display: inline-block;
+            max-width: 25% !important;
+            text-align: center;
+            margin: 1em 100px;
+            min-width: 25%;
+            @include tablet{
+                max-width: 100%;
+                margin: 1em 50px;
+            }
+            @include phone{
+                margin: 1em 30px;
+            }
+            i{
+                color: $yellow;
+                margin-bottom: .25em;
+                width: 100%;
+                animation: 2s blink infinite steps(2,start);
+                @include tablet{
+                    font-size: 4em;
+                }
+                @include phone{
+                    font-size: 2.5em;
+                }
+            }
+            img{
+                width: 100%;
+                display: block;
+                //z-index: 4;
+                position: relative;
+                cursor: pointer;
+            }
+        }
+    }
+    .instruct{
+        text-align: center;
+        font-size: 3em;
+        width: fit-content;
+        margin: 0 auto;
+        padding: .25em 1em;
+        font-family: $boldFont;
+        color: white;
+        @include tablet{
+            font-size: 1.75em;
+        }
+        @include phone{
+            font-size: 1em;
+        }
+        //background-color: $darkBlue;
+    }
+}
+
+.ui-state-default{
+    //background-color: red;
+}
+
+.ui-state-hover{
+    //background-color: blue;
+}
+
+@keyframes blink {
+    to {visibility: hidden;}
+}
+
+.hiddenArrow{
+    visibility: hidden;
+}

@@ -1,0 +1,60 @@
+//number values
+
+#preload-01 { background: url(/projects/parker/img/homeImage.png) no-repeat -9999px -9999px; }
+#preload-02 { background: url(/projects/parker/img/homeLove.gif) no-repeat -9999px -9999px; }
+#preload-03 { background: url(/projects/parker/img/homeSweat.gif) no-repeat -9999px -9999px; }
+#preload-04 { background: url(/projects/parker/img/homeWant.gif) no-repeat -9999px -9999px; }
+#preload-05 { background: url(/projects/parker/img/angel3.png) no-repeat -9999px -9999px; }
+
+//resize info
+$tablet-width: 900px;
+$phone-width: 499px;
+$header-height: 319px;
+$header-width: 307px;
+
+//colors
+$blue: #0077ff;
+$lightBlue: #59cbff;
+$darkBlue: #4000b8;
+
+$yellow: #fffb00;
+$lightYellow: #f0ff91;
+$darkYellow: #ffe600;
+
+$red: #ff0062;
+$lightRed: #ff76ad;
+$darkRed: #b9005d;
+
+$green: #00ff4c;
+$lighGreen: #bfff29;
+$darkGreen: #00cc6d;
+
+$pink: #ff4d96;
+$darkPink: #f71e50;
+
+$white: #fffffb;
+
+$regFont: 'Open Sans', sans-serif;
+$boldFont: 'Bungee', cursive;
+
+//functions
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+       -moz-border-radius: $radius;
+        -ms-border-radius: $radius;
+            border-radius: $radius;
+}
+
+@mixin tablet {
+    @media only screen and (max-width: #{$tablet-width}) {
+      @content;
+    }
+}
+  
+@mixin phone {
+    @media only screen and (max-width: #{$phone-width}) {
+      @content;
+    }
+}
+
+//preload

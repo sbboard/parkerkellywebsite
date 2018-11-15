@@ -1,0 +1,28 @@
+.nav{
+    display: block;
+    margin: 1em 1em;
+    letter-spacing: .5em;
+    text-align: center;
+    right: 0;
+    transition: font-size 1s;
+    @include tablet{
+        margin: 1em auto;
+    width: 100%;
+    font-size: .85em;
+    }
+    @include phone{
+        font-size: .75em;
+    }
+    a{
+        color: white;
+        transition: .25s opacity;
+        opacity: .75;
+        &:link{
+            color: white;
+        }
+        &:hover{
+            color: white;
+            opacity: 1;
+        }
+    }
+}

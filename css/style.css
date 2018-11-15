@@ -1,0 +1,565 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/* line 6, partials/_reset.scss */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+/* line 16, partials/_reset.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+/* line 19, partials/_reset.scss */
+body {
+  line-height: 1; }
+
+/* line 22, partials/_reset.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 25, partials/_reset.scss */
+blockquote, q {
+  quotes: none; }
+
+/* line 29, partials/_reset.scss */
+blockquote:before, blockquote:after {
+  content: '';
+  content: none; }
+
+/* line 34, partials/_reset.scss */
+q:before, q:after {
+  content: '';
+  content: none; }
+
+/* line 38, partials/_reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 3, partials/_variables.scss */
+#preload-01 {
+  background: url("/img/homeImage.png") no-repeat -9999px -9999px; }
+
+/* line 4, partials/_variables.scss */
+#preload-02 {
+  background: url("/img/homeLove.gif") no-repeat -9999px -9999px; }
+
+/* line 5, partials/_variables.scss */
+#preload-03 {
+  background: url("/img/homeSweat.gif") no-repeat -9999px -9999px; }
+
+/* line 6, partials/_variables.scss */
+#preload-04 {
+  background: url("/img/homeWant.gif") no-repeat -9999px -9999px; }
+
+/* line 7, partials/_variables.scss */
+#preload-05 {
+  background: url("/img/monaparker.png") no-repeat -9999px -9999px; }
+
+/* line 1, partials/_nav.scss */
+.nav {
+  display: block;
+  margin: 1em 1em;
+  letter-spacing: .5em;
+  text-align: center;
+  right: 0;
+  transition: font-size 1s; }
+  @media only screen and (max-width: 900px) {
+    /* line 1, partials/_nav.scss */
+    .nav {
+      margin: 1em auto;
+      width: 100%;
+      font-size: .85em; } }
+  @media only screen and (max-width: 499px) {
+    /* line 1, partials/_nav.scss */
+    .nav {
+      font-size: .75em; } }
+  /* line 16, partials/_nav.scss */
+  .nav a {
+    color: white;
+    transition: .25s opacity;
+    opacity: .75; }
+    /* line 20, partials/_nav.scss */
+    .nav a:link {
+      color: white; }
+    /* line 23, partials/_nav.scss */
+    .nav a:hover {
+      color: white;
+      opacity: 1; }
+
+/* line 1, pages/_index.scss */
+html {
+  height: 100%; }
+
+/* line 5, pages/_index.scss */
+body {
+  background: linear-gradient(to bottom, #ff4d96 0%, #f71e50 100%);
+  background-attachment: fixed;
+  min-height: 100%;
+  overflow-x: hidden; }
+
+/* line 12, pages/_index.scss */
+.siteWrap {
+  padding: 2em 2em;
+  max-width: 1500px;
+  margin: 0 auto; }
+  @media only screen and (max-width: 900px) {
+    /* line 12, pages/_index.scss */
+    .siteWrap {
+      padding: 2em .5em; } }
+  /* line 19, pages/_index.scss */
+  .siteWrap .indexText {
+    text-align: center;
+    font-size: 4.5em;
+    font-family: "Bungee", cursive; }
+    @media only screen and (max-width: 900px) {
+      /* line 19, pages/_index.scss */
+      .siteWrap .indexText {
+        font-size: 3em;
+        margin: 0 auto; } }
+    @media only screen and (max-width: 499px) {
+      /* line 19, pages/_index.scss */
+      .siteWrap .indexText {
+        width: inherit;
+        font-size: 1.5em; } }
+  /* line 32, pages/_index.scss */
+  .siteWrap .playstuff {
+    padding: 2em 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    /* line 39, pages/_index.scss */
+    .siteWrap .playstuff .parker {
+      max-width: 25% !important;
+      overflow: hidden;
+      display: inline-block;
+      text-align: center;
+      justify-self: center;
+      margin: 1em 100px; }
+      @media only screen and (max-width: 900px) {
+        /* line 39, pages/_index.scss */
+        .siteWrap .playstuff .parker {
+          max-width: 100%;
+          margin: 1em 50px; } }
+      @media only screen and (max-width: 499px) {
+        /* line 39, pages/_index.scss */
+        .siteWrap .playstuff .parker {
+          margin: 1em 30px; } }
+      /* line 54, pages/_index.scss */
+      .siteWrap .playstuff .parker img {
+        width: 100%;
+        display: block;
+        position: relative; }
+    /* line 61, pages/_index.scss */
+    .siteWrap .playstuff .food {
+      display: inline-block;
+      max-width: 25% !important;
+      text-align: center;
+      margin: 1em 100px;
+      min-width: 25%; }
+      @media only screen and (max-width: 900px) {
+        /* line 61, pages/_index.scss */
+        .siteWrap .playstuff .food {
+          max-width: 100%;
+          margin: 1em 50px; } }
+      @media only screen and (max-width: 499px) {
+        /* line 61, pages/_index.scss */
+        .siteWrap .playstuff .food {
+          margin: 1em 30px; } }
+      /* line 74, pages/_index.scss */
+      .siteWrap .playstuff .food i {
+        color: #fffb00;
+        margin-bottom: .25em;
+        width: 100%;
+        animation: 2s blink infinite steps(2, start); }
+        @media only screen and (max-width: 900px) {
+          /* line 74, pages/_index.scss */
+          .siteWrap .playstuff .food i {
+            font-size: 4em; } }
+        @media only screen and (max-width: 499px) {
+          /* line 74, pages/_index.scss */
+          .siteWrap .playstuff .food i {
+            font-size: 2.5em; } }
+      /* line 86, pages/_index.scss */
+      .siteWrap .playstuff .food img {
+        width: 100%;
+        display: block;
+        position: relative;
+        cursor: pointer; }
+  /* line 95, pages/_index.scss */
+  .siteWrap .instruct {
+    text-align: center;
+    font-size: 3em;
+    width: fit-content;
+    margin: 0 auto;
+    padding: .25em 1em;
+    font-family: "Bungee", cursive;
+    color: white; }
+    @media only screen and (max-width: 900px) {
+      /* line 95, pages/_index.scss */
+      .siteWrap .instruct {
+        font-size: 1.75em; } }
+    @media only screen and (max-width: 499px) {
+      /* line 95, pages/_index.scss */
+      .siteWrap .instruct {
+        font-size: 1em; } }
+
+@keyframes blink {
+  to {
+    visibility: hidden; } }
+/* line 125, pages/_index.scss */
+.hiddenArrow {
+  visibility: hidden; }
+
+/* line 1, pages/_portfolio.scss */
+.portWrap {
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+  display: block; }
+  @media only screen and (max-width: 900px) {
+    /* line 1, pages/_portfolio.scss */
+    .portWrap {
+      width: 98%; } }
+  /* line 9, pages/_portfolio.scss */
+  .portWrap .actualPortfolio {
+    background-color: white;
+    line-height: 1.5;
+    border-radius: 10px;
+    padding: 1em 2em;
+    font-family: "Open Sans", sans-serif;
+    margin: 0 0 1em 0;
+    width: 644px; }
+    @media only screen and (max-width: 900px) {
+      /* line 9, pages/_portfolio.scss */
+      .portWrap .actualPortfolio {
+        width: calc(100% - 4em); } }
+    /* line 20, pages/_portfolio.scss */
+    .portWrap .actualPortfolio h1 {
+      font-size: 1.5em;
+      font-weight: 800;
+      margin: 1em 0;
+      text-align: center;
+      background-color: #ff4d96;
+      padding: 1em 0;
+      border-radius: 10px;
+      color: white; }
+    /* line 30, pages/_portfolio.scss */
+    .portWrap .actualPortfolio h2 {
+      font-size: 1.25em;
+      font-weight: 600;
+      margin: .5em 0; }
+    /* line 35, pages/_portfolio.scss */
+    .portWrap .actualPortfolio p {
+      margin: 1em 0;
+      font-weight: 100; }
+      /* line 38, pages/_portfolio.scss */
+      .portWrap .actualPortfolio p a {
+        display: block;
+        margin: 0 auto;
+        width: fit-content; }
+        /* line 42, pages/_portfolio.scss */
+        .portWrap .actualPortfolio p a:link, .portWrap .actualPortfolio p a:visited {
+          color: #ff4d96; }
+        /* line 45, pages/_portfolio.scss */
+        .portWrap .actualPortfolio p a:hover {
+          color: #f71e50; }
+        /* line 48, pages/_portfolio.scss */
+        .portWrap .actualPortfolio p a b {
+          font-weight: 700;
+          color: blue; }
+    /* line 54, pages/_portfolio.scss */
+    .portWrap .actualPortfolio strong {
+      font-weight: 900;
+      text-decoration: underline; }
+    /* line 58, pages/_portfolio.scss */
+    .portWrap .actualPortfolio img {
+      border: 2px solid #ff4d96;
+      margin: 1em auto;
+      display: block;
+      box-shadow: 4px 4px 10px 4px #888;
+      max-width: 100%; }
+  /* line 66, pages/_portfolio.scss */
+  .portWrap .portLogo {
+    margin-top: 1em;
+    min-height: 319px;
+    width: 900px; }
+    @media only screen and (max-width: 900px) {
+      /* line 66, pages/_portfolio.scss */
+      .portWrap .portLogo {
+        height: inherit;
+        width: 100%; } }
+    /* line 74, pages/_portfolio.scss */
+    .portWrap .portLogo #angelBoy {
+      position: absolute;
+      width: 307px;
+      z-index: -1;
+      top: 319px; }
+      @media only screen and (max-width: 900px) {
+        /* line 74, pages/_portfolio.scss */
+        .portWrap .portLogo #angelBoy {
+          float: none;
+          margin: 0 auto;
+          display: block;
+          margin-bottom: 0;
+          position: absolute;
+          left: 0;
+          right: 0; } }
+    /* line 89, pages/_portfolio.scss */
+    .portWrap .portLogo .portTextWrap {
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      height: 319px;
+      justify-content: center;
+      margin: 0 0 0 307px;
+      color: white; }
+      @media only screen and (max-width: 900px) {
+        /* line 89, pages/_portfolio.scss */
+        .portWrap .portLogo .portTextWrap {
+          height: inherit;
+          position: absolute;
+          right: 0;
+          left: 0;
+          margin: 0 auto;
+          top: 239.25px; } }
+    /* line 106, pages/_portfolio.scss */
+    .portWrap .portLogo .thanks {
+      font-size: 2.5em;
+      margin-bottom: .25em;
+      align-self: center;
+      text-align: center;
+      width: 100%;
+      display: block;
+      transition: font-size .5s;
+      font-family: "Bungee", cursive; }
+      @media only screen and (max-width: 900px) {
+        /* line 106, pages/_portfolio.scss */
+        .portWrap .portLogo .thanks {
+          font-size: 2em; } }
+      @media only screen and (max-width: 499px) {
+        /* line 106, pages/_portfolio.scss */
+        .portWrap .portLogo .thanks {
+          font-size: 1.5em; } }
+    /* line 122, pages/_portfolio.scss */
+    .portWrap .portLogo .thanksPartTwo {
+      font-size: 1.75em;
+      text-align: center;
+      width: 100%;
+      display: block;
+      font-family: "Bungee", cursive;
+      transition: font-size .5s;
+      align-self: center; }
+      @media only screen and (max-width: 900px) {
+        /* line 122, pages/_portfolio.scss */
+        .portWrap .portLogo .thanksPartTwo {
+          font-size: 1.5em; } }
+      @media only screen and (max-width: 499px) {
+        /* line 122, pages/_portfolio.scss */
+        .portWrap .portLogo .thanksPartTwo {
+          font-size: 1.25em; } }
+
+/* line 141, pages/_portfolio.scss */
+.portNav .actualNav {
+  position: relative;
+  left: 708px;
+  font-family: "Open Sans", sans-serif;
+  background-color: white;
+  line-height: 1.5;
+  width: 200px; }
+  @media only screen and (max-width: 900px) {
+    /* line 141, pages/_portfolio.scss */
+    .portNav .actualNav {
+      display: none; } }
+  /* line 151, pages/_portfolio.scss */
+  .portNav .actualNav ul {
+    position: absolute;
+    background-color: white;
+    padding: 1em;
+    padding-left: 1em;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: -2em;
+    box-shadow: inset 8px 0px 12px -10px #f71e50;
+    width: 168px; }
+    @media only screen and (max-width: 900px) {
+      /* line 151, pages/_portfolio.scss */
+      .portNav .actualNav ul {
+        display: none;
+        align-content: center;
+        justify-content: center;
+        flex-direction: column;
+        top: 0;
+        left: 0;
+        width: 100%;
+        border-radius: 0;
+        padding-top: 75px;
+        padding-bottom: 0;
+        line-height: 1.5;
+        font-size: 1.25em;
+        z-index: 4; } }
+    /* line 176, pages/_portfolio.scss */
+    .portNav .actualNav ul li {
+      padding: 0 .5em;
+      display: block; }
+      @media only screen and (max-width: 900px) {
+        /* line 176, pages/_portfolio.scss */
+        .portNav .actualNav ul li {
+          padding: 0 2em;
+          width: calc(100% - 2em); } }
+      /* line 183, pages/_portfolio.scss */
+      .portNav .actualNav ul li a {
+        text-decoration: none;
+        color: #ff4d96;
+        padding: 0 .5em; }
+        @media only screen and (max-width: 900px) {
+          /* line 183, pages/_portfolio.scss */
+          .portNav .actualNav ul li a {
+            background-color: green;
+            text-align: center;
+            display: block;
+            padding: .5em;
+            margin: .25em 0;
+            border-radius: 5px; } }
+        /* line 195, pages/_portfolio.scss */
+        .portNav .actualNav ul li a:link.active {
+          color: white;
+          background-color: #ff4d96;
+          border-radius: 5px; }
+        /* line 200, pages/_portfolio.scss */
+        .portNav .actualNav ul li a:visited.active {
+          color: white;
+          background-color: #ff4d96;
+          border-radius: 5px; }
+        /* line 205, pages/_portfolio.scss */
+        .portNav .actualNav ul li a .active {
+          color: white;
+          background-color: #ff4d96;
+          border-radius: 5px; }
+/* line 214, pages/_portfolio.scss */
+.portNav .mobileOpen {
+  border-left: 2px solid white;
+  border-bottom: 2px solid white;
+  background-color: #f71e50;
+  color: white;
+  width: 75px;
+  height: 75px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  display: none;
+  z-index: 5; }
+  @media only screen and (max-width: 900px) {
+    /* line 214, pages/_portfolio.scss */
+    .portNav .mobileOpen {
+      display: flex;
+      justify-content: center;
+      align-content: center; }
+      /* line 232, pages/_portfolio.scss */
+      .portNav .mobileOpen i {
+        align-self: center;
+        justify-content: center; } }
+
+/* line 240, pages/_portfolio.scss */
+.footer {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  color: white;
+  display: block;
+  margin-top: 2em;
+  width: 100%;
+  text-align: center; }
+
+/* line 250, pages/_portfolio.scss */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 1em; }
+
+/* line 259, pages/_portfolio.scss */
+.video-container iframe, .video-container object, .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+/* line 267, pages/_portfolio.scss */
+.center {
+  text-align: center; }
+
+/* line 271, pages/_portfolio.scss */
+.sticky {
+  position: fixed;
+  top: 16px; }
+
+/* line 276, pages/_portfolio.scss */
+#secretVidContain {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Bungee", cursive; }
+
+/* line 283, pages/_portfolio.scss */
+#bta {
+  text-align: center; }
+  /* line 285, pages/_portfolio.scss */
+  #bta img {
+    width: 30%;
+    display: inline-block;
+    margin: 0; }
+
+/* line 292, pages/_portfolio.scss */
+.twoPicWrap {
+  width: 100%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; }
+  /* line 298, pages/_portfolio.scss */
+  .twoPicWrap #twopartone, .twoPicWrap #twoparttwo {
+    display: inline-block;
+    margin: 0;
+    box-shadow: none;
+    border: 0;
+    max-width: 50%; }
+
+/* line 310, pages/_portfolio.scss */
+#credits {
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  font-size: .8em;
+  color: white; }
+  @media only screen and (max-width: 900px) {
+    /* line 310, pages/_portfolio.scss */
+    #credits {
+      width: calc($tablet-width - 4em); } }
+  /* line 320, pages/_portfolio.scss */
+  #credits .credBox {
+    width: calc(100% / 6.5);
+    display: inline-block;
+    overflow: wrap;
+    vertical-align: top; }
+    /* line 325, pages/_portfolio.scss */
+    #credits .credBox b {
+      display: block;
+      font-weight: 800; }
+    /* line 329, pages/_portfolio.scss */
+    #credits .credBox i {
+      font-weight: 800; }
