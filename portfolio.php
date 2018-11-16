@@ -49,109 +49,45 @@ Don’t hire me. It’s really not worth it. I get distracted easily. I can’t 
 </p>
 </div>
 
-
-<div id="print" class="section scrollspy">
-    <h1>Print Ads</h1>
-    <h2>Nalgene</h2>
-    <img style="border:0;box-shadow:none;" src="projects/nalgene/Nalgene Print1.jpg">
-    <img style="border:0;box-shadow:none;" src="projects/nalgene/Nalgene Print2.jpg">
-    <img style="border:0;box-shadow:none;" src="projects/nalgene/Nalgene Print3.jpg">
-</div>
-
-<div id="threesixty" class="section scrollspy">
-<h1>360 Campaign</h1>
-<h2>Crocs</h2>
-<h3>Video & Radio</h3>
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zVpPgLencYM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<h3>Print</h3>
-<img style="border:0;box-shadow:none;" src="projects/croc/boots and bag 2.jpg">
-<img style="border:0;box-shadow:none;" src="projects/croc/Pinched toes male-2.jpg">
-<img style="border:0;box-shadow:none;" src="projects/croc/WomansRope-1.jpg">
-<img style="border:0;box-shadow:none;" src="projects/croc/Bus Stop.jpg">
-<img style="border:0;box-shadow:none;" src="projects/croc/CrocsBillboard.jpg">
-<h3>Ambient</h3>
-<img style="border:0;box-shadow:none;" src="projects/croc/Ambient croc shoe box.jpg">
-<p>By putting metal clamps and rusty contraptions in boxes at shoe stores, we make commentary on how mainstream footwear (especially high heels and business shoes) are uncomfortable and restrictive, yet they are worn anyway. Through exaggeration, we claim that accepting uncomfortable footwear as a part of life is as ridiculous as willingly wearing bear traps on your feet. In this way, Crocs invites you to empathize and see life from your feet’s perspective, or in other words, “put yourself in your own shoes.”
-</p>
-</div>
-
-<div id="produced" class="section scrollspy">
-<h1>Produced Media</h1>
-<h2>Emotional Malt O Meal</h2>
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u30fg4XSScw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
-
-<div id="digital" class="section scrollspy">
-<h1>Digitial</h1>
-<h2>Tim Tam</h2>
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x8szqiyoank" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-</div>
-
-<div id="dontfoolme" class="section scrollspy">
-<h1>Don't Fool Me</h1>
-<h2>Plackers</h2>
-<img style="border:0;box-shadow:none;" src="projects/plackers/Plackers Print-01 2.jpg">
-<img style="border:0;box-shadow:none;" src="projects/plackers/Plackers Print-02 2.jpg">
-<img style="border:0;box-shadow:none;" src="projects/plackers/Plackers Print-03 2.jpg">
-</div>
-
 <div id="personalproject" class="section scrollspy">
-<h1>Personal Project</h1>
-<h2>Drivin' With Ivan</h2>
+<h1>Drivin' With Ivan</h1>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quSm6zAycbw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 </div>
 
 <div id="awardshows" class="section scrollspy">
-    <h1>Award Shows</h1>
-    <h2>Burger King Zeus</h2>
+    <h1>Burger King Zeus</h1>
     <div class="video-container">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/n8WlTOE_W3w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 
-<div id="adlabproject" class="section scrollspy">
-    <h1>Adlab Project</h1>
-    <div class="twoPicWrap">
-            <img id="twopartone" src="projects/downeast.png">
-            <img id="twoparttwo" src="projects/oceanspray.png">
-    </div>
-    <p class="center">I helped work on these projects</p>
+<div id="oneoff" class="section scrollspy">
+<h1>Video Editing Contest</h1>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnPJv1zSLlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div><p class="center">I didn’t win anything. A friend who works at AKQA wasn’t impressed either, but it’s staying in the portfolio cause I like it.</p>
 </div>
+
+<div id="threethirty" class="section scrollspy">
+<h1>Malt O Meal</h1>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MOrV1wqSfr4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 </div>
 <div id="credits">
-<div class="credBox">
-<b>Nalgene:</b>
-<i>AD:</i> Chad Corbin
-</div>
-<div class="credBox">
-<b>Crocs:</b>
-<i>AD:</i> David Gordet</br>
-<i>CC:</i> Michael Hanks
-</div>
-<div class="credBox">
-        <b>Malt O Meal:</b>
-        <i>CC/AD:</i> Peter Molnar
-</div>
-<div class="credBox">
-        <b>Tim Tam:</b>
-        <i>CC:</i> KC Sosa
-        </div>
         <div class="credBox">
         <b>Burger King:</b>
         <i>AD:</i> Chad Corbin</br>
         <i>CC:</i> KC Sosa
         </div>
         <div class="credBox">
-        <b>Website Design:</b>
+        <b>Website Dev/Des:</b>
         Colin Buffum
         </div>
 </div>
