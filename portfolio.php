@@ -38,22 +38,17 @@
 
     <div class="actualPortfolio">
 
-    <div id="portNaver" class="portNav">
-        <div class="actualNav">
-        <ul id="theNav" class="section table-of-contents">
-            <li><a href="#print">Print Ads</a></li>
-            <li><a href="#threesixty">360 Campaign</a></li>
-            <li><a href="#produced">Produced Media</a></li>
-            <!-- new stuff -->
-            <li><a href="#digital">Digital</a></li>
-            <li><a href="#dontfoolme">Don't Fool Me</a></li>
-            <li><a href="#personalproject">Personal Project</a></li>
-            <li><a href="#awardshows">Award Shows</a></li>
-            <li><a href="#adlabproject">Adlab Project</a></li>
-            <li><a href="portfolio17.php"><b>2017 Portfolio</b></a></li>
-        </ul>
-    </div>
-    </div>
+    <?php include("includes/sideNav.php");?>
+
+
+<div id="about" class="section scrollspy">
+    <h1>About Me</h1>
+
+<p>
+Don’t hire me. It’s really not worth it. I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than five minutes I completely zone out. I don’t have the patience or work ethic to polish anything. When I get feedback on something, instead of fixing it, I start a different project. I leave things half-finished, half-hoping someone else will pick up my slack. I write two ideas for taglines and start watching Gordon Ramsay highlights on YouTube. Half my iPhone apps are those games that charge you a dollar to play them without ads. I burp frequently and loudly, and my yawns are even worse. I only go to meetings if they have snacks. My favorite part about work isn’t the work itself, but talking to coworkers for hours about the newest episode of Better Call Saul or Attack on Titan, and I leave work early if the boss isn’t around. There isn’t a twist to this. I’m just the worst.
+</p>
+</div>
+
 
 <div id="print" class="section scrollspy">
     <h1>Print Ads</h1>
