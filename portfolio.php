@@ -31,7 +31,7 @@
     <div class="portLogo">
         <?php echo "<img id=\"angelBoy\" src=\"img/parkerArt/".$food.".png\">"?>
         <div class="portTextWrap">
-        <?php echo "<div class=\"thanks font-effect-3d\">HOW I LOVE THIS ".strtoupper($food)."!</div>"?>
+        <?php echo "<div class=\"thanks font-effect-3d\">THANKS FOR THIS ".strtoupper($food)."!</div>"?>
         <div class="thanksPartTwo">Here's my exclusive portfolio</div>
         </div>
     </div>
