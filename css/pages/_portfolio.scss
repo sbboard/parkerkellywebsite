@@ -144,7 +144,7 @@
     font-family: $regFont;
     background-color: white;
     line-height: 1.5;
-    width: 200px;
+    width: 243px;
     @include tablet{
         display:none;
     }
@@ -157,7 +157,6 @@
             border-bottom-right-radius: 10px;
             margin-left: -2em;
             box-shadow: inset 8px 0px 12px -10px $darkPink;
-            width: 168px;
             @include tablet{
                 display: none;
                 align-content: center;
@@ -314,9 +313,6 @@
     display: block;
     font-size: .8em;
     color: white;
-    @include tablet{
-        width: calc($tablet-width - 4em);
-    }
     .credBox{
         width: calc(100% / 6.5);
         display: inline-block;

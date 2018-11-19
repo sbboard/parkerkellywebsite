@@ -12,7 +12,7 @@
     <title>Parker Kelly Portfolio</title>
     <!--<meta name="description" content="">-->
     <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style3.css">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1,  user-scalable=0">
     <link href="https://fonts.googleapis.com/css?family=Bungee|Open+Sans&effect=anaglyph|3d" rel="stylesheet">
@@ -87,6 +87,20 @@ Don’t hire me. It’s really not worth it. I get distracted easily. I can’t 
 
 </div>
 </div>
+
+<!--
+<div id="credits">
+        <div class="credBox">
+        <b>Burger King:</b>
+        <i>AD:</i> Chad Corbin</br>
+        <i>CC:</i> KC Sosa
+        </div>
+        <div class="credBox">
+        <b>Website Dev/Des:</b>
+        Colin Buffum
+        </div>
+</div>
+-->
 
 <div class="footer">
     <?php include'includes/nav.php' ?>
