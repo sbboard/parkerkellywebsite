@@ -45,7 +45,9 @@
     <h1>About Me</h1>
 
 <p>
-Don’t hire me. It’s really not worth it. I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than five minutes I completely zone out. I don’t have the patience or work ethic to polish anything. When I get feedback on something, instead of fixing it, I start a different project. I leave things half-finished, half-hoping someone else will pick up my slack. I write two ideas for taglines and start watching Gordon Ramsay highlights on YouTube. Half my iPhone apps are those games that charge you a dollar to play them without ads. I burp frequently and loudly, and my yawns are even worse. I only go to meetings if they have snacks. My favorite part about work isn’t the work itself, but talking to coworkers for hours about the newest episode of Better Call Saul or Attack on Titan, and I leave work early if the boss isn’t around. There isn’t a twist to this. I’m just the worst.
+Don’t hire me. It’s really not worth it.<br/>
+I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than five minutes I completely zone out. I don’t have the patience or work ethic to polish anything. When I get feedback on something, instead of fixing it, I start a different project. I leave things half-finished, half-hoping someone else will pick up my slack. I write two ideas for taglines and start watching Gordon Ramsay highlights on YouTube. Half my iPhone apps are those games that charge you a dollar to play them without ads. I burp frequently and loudly, and my yawns are even worse. I only go to meetings if they have snacks. My favorite part about work isn’t the work itself, but talking to coworkers for hours about the newest episode of Better Call Saul or Attack on Titan, and I leave work early if the boss isn’t around. 
+<br/>There isn’t a twist to this. I’m just the worst.
 </p>
 </div>
 
