@@ -87,17 +87,6 @@ Don’t hire me. It’s really not worth it. I get distracted easily. I can’t 
 
 </div>
 </div>
-<div id="credits">
-        <div class="credBox">
-        <b>Burger King:</b>
-        <i>AD:</i> Chad Corbin</br>
-        <i>CC:</i> KC Sosa
-        </div>
-        <div class="credBox">
-        <b>Website Dev/Des:</b>
-        Colin Buffum
-        </div>
-</div>
 
 <div class="footer">
     <?php include'includes/nav.php' ?>

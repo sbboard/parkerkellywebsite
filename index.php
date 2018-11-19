@@ -11,10 +11,10 @@ switch ($rando) {
       $food="taco";
       break;
   case 4:
-      $food="roast chicken";
+      $food="shrimp";
       break;
   case 5:
-      $food="meatball";
+      $food="waffle";
       break;
   default:
       $food="burger";
@@ -91,7 +91,7 @@ switch ($rando) {
             <?php echo"<img id=\"draggable\"  src=\"img/food/".$food.".png\">"; ?>
         </div>
     </div>
-    <?php echo "<div class=\"instruct font-effect-3d\">DRAG ME ".strtoupper($food)." IF YOU WANT<br/>TO SEE MY PORTFOLIO</div>";?>
+    <?php echo "<div class=\"instruct font-effect-3d\">DRAG ME THAT ".strtoupper($food)."<br/>IF YOU WANT TO SEE MY PORTFOLIO</div>";?>
 </div>
 
 <?php include'includes/nav.php' ?>
