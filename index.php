@@ -90,7 +90,7 @@ switch ($rando) {
         </div>
         <div class="food">
           <i id="arrow" class="fa fa-arrow-down fa-5x" aria-hidden="true"></i>
-            <?php echo"<img id=\"draggable\"  src=\"img/food/".$food.".png\">"; ?>
+            <?php echo"<img id=\"draggable\" onmousedown=\"clicked()\" onmouseup=\"upmouse()\" src=\"img/food/".$food.".png\">"; ?>
         </div>
     </div>
     <?php echo "<div class=\"instruct font-effect-3d\">DRAG ME THAT ".strtoupper($food)."<br/>IF YOU WANT TO SEE MY PORTFOLIO</div>";?>
@@ -103,6 +103,15 @@ TweenMax.from("#draggable", 1, {ease: Power1.easeOut, opacity: 0, rotation:10, l
 TweenMax.from(".instruct", 2, {ease: Power1.easeOut, opacity: 0, delay: 1});
 TweenMax.staggerFrom(".stag", 1, {y:-50, opacity:0, delay: 1}, .1);
 TweenMax.from("#arrow", .5, {ease: Power1.easeOut, opacity: 0, delay: 2});
+
+function clicked(){
+        $("#parkersFace").attr("src","img/homeSweat.gif");
+        $( "#arrow" ).addClass("hiddenArrow");
+}
+
+function upmouse(){
+        $("#parkersFace").attr("src","img/homeImage.png");
+}
   </script>
 </body>
 </html>
