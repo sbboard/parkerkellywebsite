@@ -29,6 +29,8 @@ switch ($rando) {
     <link rel="stylesheet" href="css/style3.css">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1,  user-scalable=0">
+    <meta name="description" content="Parker Kelly's Portfolio Website">
+    <meta name="keywords" content="Parker Kelly, Parker, Kelly, Portfolio, Advertisement">
     <link href="https://fonts.googleapis.com/css?family=Bungee|Open+Sans&effect=anaglyph|3d" rel="stylesheet">
     <script src="/js/jquery-3.2.1.min.js"></script>
     <script src="/js/jquery-ui.min.js"></script>
