@@ -306,6 +306,10 @@ body {
   box-shadow: 4px 4px 10px 4px #888;
   max-width: 100%;
 }
+.portWrap .actualPortfolio img #noBorder {
+  border: none;
+  box-shadow: none;
+}
 .portWrap .portLogo {
   margin-top: 1em;
   min-height: 319px;

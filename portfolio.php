@@ -46,9 +46,15 @@
 
 <p>
 Don’t hire me. It’s really not worth it.<br/>
-I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than five minutes I completely zone out. I don’t have the patience or work ethic to polish anything. When I get feedback on something, instead of fixing it, I start a different project. I leave things half-finished, half-hoping someone else will pick up my slack. I write two ideas for taglines and start watching Gordon Ramsay highlights on YouTube. Half my iPhone apps are those games that charge you a dollar to play them without ads. I burp frequently and loudly, and my yawns are even worse. I only go to meetings if they have snacks. My favorite part about work isn’t the work itself, but talking to coworkers for hours about the newest episode of Better Call Saul or Attack on Titan, and I leave work early if the boss isn’t around. 
-<br/>There isn’t a twist to this. I’m just the worst.
+I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than twelve seconds I completely zone out. When I get feedback on work, instead of fixing it, I start a new project. I’ll write two ideas for taglines and start watching Gordon Ramsay highlights. I only go to meetings if they have snacks, and I leave early when the boss isn’t around. Plus I’m a straight, white male, so I can’t even help with your diversity requirements. There isn’t a twist to this. I’m just an over-preoccupied beatnik.
 </p>
+</div>
+
+<div id="johnsonville" class="section scrollspy">
+<h1>Johnsonville Brats 15s Ad Comp</h1>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DbS4myJuk6Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
 <div id="personalproject" class="section scrollspy">
@@ -76,15 +82,22 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
 <h1>Video Editing Contest</h1>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnPJv1zSLlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-    </div><p class="center">I didn’t win anything. A friend who works at AKQA wasn’t impressed either, but it’s staying in the portfolio cause I like it.</p>
+    </div><p>I didn’t win anything. A friend who works at AKQA wasn’t impressed either, but it’s staying in the portfolio cause I like it.</p>
 </div>
 
 <div id="threethirty" class="section scrollspy">
-<h1>Malt O Meal</h1>
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MOrV1wqSfr4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <h1>Malt O Meal</h1>
+    <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MOrV1wqSfr4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
 </div>
+
+<div id="goblin" class="section scrollspy">
+    <h1>Goblin Valley Ad (Coming Soon)</h1>
+    <p class="center">Coming Soon!!</p>
+    <img src="img/diddy.gif" style="border:0px; box-shadow:none;"alt="Diddy Boy"/>
+    <p>The funnest part of this was that I got to walk around in this space suit. Props to Daniel Tu for directing, AD Alexa Spiroff, DP Trevor Free, Luis Puente for makin’ the space suit, and Trent Rollins Wimber for driving 7 hours and not completely veering off the road.
+</p>
 </div>
 
 </div>
