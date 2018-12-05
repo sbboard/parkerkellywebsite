@@ -33,12 +33,13 @@
             margin: .5em 0;
         }
         p{
+            b{
+                font-weight: 900;
+            }
             margin: 1em 0;
             font-weight: 100;
             a{
-                display:block;
-                margin: 0 auto;
-                width: fit-content;
+                font-weight: 900;
                 &:link, &:visited{
                     color: $pink;
                 }

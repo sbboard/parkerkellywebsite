@@ -280,10 +280,11 @@ body {
   margin: 1em 0;
   font-weight: 100;
 }
+.portWrap .actualPortfolio p b {
+  font-weight: 900;
+}
 .portWrap .actualPortfolio p a {
-  display: block;
-  margin: 0 auto;
-  width: fit-content;
+  font-weight: 900;
 }
 .portWrap .actualPortfolio p a:link, .portWrap .actualPortfolio p a:visited {
   color: #ff4d96;

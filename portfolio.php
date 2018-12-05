@@ -55,6 +55,7 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbS4myJuk6Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
+<p>The inspiration for these ads came from a sketch I wrote called “Bratman,” which I eventually sold to Studio C for $150. I definitely should have asked for more, cause it’s the last good idea I’ll ever have.</p>
 </div>
 
 <div id="personalproject" class="section scrollspy">
@@ -62,6 +63,7 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quSm6zAycbw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
+<p>People keep wanting me to make more of these, but I totalled that car a few months after filming.</p>
 </div>
 
 <div id="awardshows" class="section scrollspy">
@@ -69,6 +71,9 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
     <div class="video-container">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/n8WlTOE_W3w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
+    <p>My buddy <b>Chad Corbin</b> helped conceptualize this and picked out the epic music. 
+    My other very talented friend <a href="www.sincerelythesosas.com">KC Sosa</a> filmed and edited and added all those hilarious effects. 
+    They’re both solid dudes, you should hire them.</p>
 </div>
 
 <div id="twix" class="section scrollspy">
@@ -76,6 +81,7 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
     <div class="video-container">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/YlF_TfsyZi0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
+    <p>I won’t make you watch all of this. The best and arguably only good part starts a few seconds after the one minute mark, as I break it in half.</p>
 </div>
 
 <div id="oneoff" class="section scrollspy">
@@ -90,6 +96,11 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MOrV1wqSfr4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
+    <p>
+    I’d like to give a shout out to my good friend <a href="http://gang-fight.com/colinbuffum/">Colin Buffum</a> who designed this website for me in exchange for Xenoblade. 
+    He also came up with the hilarious idea of putting food on my face to unlock the site, 
+    and he’s a very talented illustratuer. You should hire him!
+    </p>
 </div>
 
 <div id="goblin" class="section scrollspy">
