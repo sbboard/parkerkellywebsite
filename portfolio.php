@@ -71,7 +71,7 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
     <div class="video-container">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/n8WlTOE_W3w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
-    <p>My buddy <b>Chad Corbin</b> helped conceptualize this and picked out the epic music. 
+    <p>My buddy <a href="http://www.cheddarcorbin.com">Chad Corbin</a> helped conceptualize this and picked out the epic music. 
     My other very talented friend <a href="www.sincerelythesosas.com">KC Sosa</a> filmed and edited and added all those hilarious effects. 
     They’re both solid dudes, you should hire them.</p>
 </div>
