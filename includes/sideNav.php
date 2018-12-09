@@ -4,12 +4,13 @@
             <li><a href="#about">About Me</a></li>
             
             <li><a href="#johnsonville">Johnsonville Brats 15s Ad</a></li>
+            <li><a href="#goblin">Goblin Valley Ad</a></li>
             <li><a href="#personalproject">Drivin' With Ivan</a></li>
             <li><a href="#awardshows">Zeus Orders a Whopper</a></li>
             <li><a href="#twix">Twix Ads</a></li>
             <li><a href="#oneoff">Video Editing Contest</a></li>
             <li><a href="#threethirty">Malt O Meal</a></li>
-            <li><a href="#goblin">Goblin Valley Ad</a></li>
+            <li><a href="#undead">Undead Friends</a></li>
             <!--
             <li><a href="#print">Print Ads</a></li>
             <li><a href="#threesixty">360 Campaign</a></li>

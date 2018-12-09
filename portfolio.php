@@ -52,9 +52,22 @@ Don’t hire me, it’s really not worth it.<br/>I get distracted easily. I can�
 <div id="johnsonville" class="section scrollspy">
 <h1>Johnsonville Brats 15s Ad Comp</h1>
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DbS4myJuk6Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnw-WnL3Eek" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 <p>The inspiration for these ads came from a sketch I wrote called “Bratman,” which I eventually sold to Studio C for $150. I definitely should have asked for more, cause it’s the last good idea I’ll ever have.</p>
+</div>
+
+<div id="goblin" class="section scrollspy">
+    <h1>Goblin Valley Ad (Coming Soon)</h1>
+    <div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcbaRzDQ7t8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+    <p>The funnest part of this was that I got to walk around in this space suit. Props to <a href="https://www.instagram.com/danieltutho/?hl=en">Daniel Tu</a> for directing,
+    AD <a href="http://www.alexaspiroff.com">Alexa Spiroff</a>, 
+    DP <a href="https://www.instagram.com/trevorjfree_dp/?hl=en">Trevor Free</a>, 
+    <a href="https://www.instagram.com/luisfernando.puente/?hl=en">Luis Puente</a> for makin’ the space suit, 
+    and <a href="https://www.instagram.com/trentpow/?hl=en">Trent Rollins Wimber</a> for driving 7 hours and not completely veering off the road.
+</p>
 </div>
 
 <div id="personalproject" class="section scrollspy">
@@ -78,16 +91,16 @@ Don’t hire me, it’s really not worth it.<br/>I get distracted easily. I can�
 <div id="twix" class="section scrollspy">
     <h1>Twix Ads</h1>
     <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/YlF_TfsyZi0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZ0I0BlhZHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
-    <p>I won’t make you watch all of this. The best and arguably only good part starts a few seconds after the one minute mark, as I break it in half.</p>
+    <p>Can you tell how much I like wearing this shirt?</p>
 </div>
 
 <div id="oneoff" class="section scrollspy">
 <h1>Video Editing Contest</h1>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnPJv1zSLlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-    </div><p>I didn’t win anything. A friend who works at AKQA wasn’t impressed either, but it’s staying in the portfolio cause I like it.</p>
+    </div><p>I didn’t win anything. A mentor of mine who works at AKQA wasn’t impressed either, but it’s staying in the portfolio cause I like it. (Come on, <a href="http://www.brdhll.com/about/">Brad</a>, just give it another chance!)</p>
 </div>
 
 <div id="threethirty" class="section scrollspy">
@@ -102,12 +115,14 @@ Don’t hire me, it’s really not worth it.<br/>I get distracted easily. I can�
     </p>
 </div>
 
-<div id="goblin" class="section scrollspy">
-    <h1>Goblin Valley Ad (Coming Soon)</h1>
-    <p class="center">Coming Soon!!</p>
-    <img src="img/diddy.gif" style="border:0px; box-shadow:none;"alt="Diddy Boy"/>
-    <p>The funnest part of this was that I got to walk around in this space suit. Props to Daniel Tu for directing, AD Alexa Spiroff, DP Trevor Free, Luis Puente for makin’ the space suit, and Trent Rollins Wimber for driving 7 hours and not completely veering off the road.
-</p>
+<div id="undead" class="section scrollspy">
+    <h1>Undead Friends</h1>
+    <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jKqkRYQHPkU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+    <p>
+    This is a stop motion project I made about four years ago. Still probably the most fun I’ve ever had making something.
+    </p>
 </div>
 
 </div>
