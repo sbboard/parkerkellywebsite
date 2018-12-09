@@ -45,8 +45,7 @@
     <h1>About Me</h1>
 
 <p>
-Don’t hire me. It’s really not worth it.<br/>
-I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than twelve seconds I completely zone out. When I get feedback on work, instead of fixing it, I start a new project. I’ll write two ideas for taglines and start watching Gordon Ramsay highlights. I only go to meetings if they have snacks, and I leave early when the boss isn’t around. Plus I’m a straight, white male, so I can’t even help with your diversity requirements. There isn’t a twist to this. I’m just an over-preoccupied beatnik.
+Don’t hire me, it’s really not worth it.<br/>I get distracted easily. I can’t focus. If I’m in a group brainstorm session for more than twelve seconds I completely zone out. I start a new projects when I should be fixing old ones. I’ll write two ideas for taglines and start watching Gordon Ramsay highlights. I only go to meetings if they have snacks, and I leave early when the boss isn’t around. Plus I’m a straight, white male, so I can’t even help with your diversity requirements. There isn’t a twist to this. I’m just an over-preoccupied beatnik who loves to goof off.
 </p>
 </div>
 
@@ -72,7 +71,7 @@ I get distracted easily. I can’t focus. If I’m in a group brainstorm session
         <iframe width="560" height="315" src="https://www.youtube.com/embed/n8WlTOE_W3w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
     <p>My buddy <a href="http://www.cheddarcorbin.com">Chad Corbin</a> helped conceptualize this and picked out the epic music. 
-    My other very talented friend <a href="www.sincerelythesosas.com">KC Sosa</a> filmed and edited and added all those hilarious effects. 
+    My other very talented friend <a href="http://www.sincerelythesosas.com">KC Sosa</a> filmed and edited and added all those hilarious effects. 
     They’re both solid dudes, you should hire them.</p>
 </div>
 
