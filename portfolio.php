@@ -58,7 +58,7 @@ Don’t hire me, it’s really not worth it.<br/>I get distracted easily. I can�
 </div>
 
 <div id="goblin" class="section scrollspy">
-    <h1>Goblin Valley Ad (Coming Soon)</h1>
+    <h1>Goblin Valley Ad</h1>
     <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rcbaRzDQ7t8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
